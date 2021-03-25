@@ -1,0 +1,236 @@
+/* header{
+    display: inline-block; */
+
+    h3 {
+        /* font-family: 'Pacifico', cursive; */
+        display: inline-block;
+        font-size: xx-large;
+        font-family: 'Yellowtail', cursive;
+     }
+     
+     #blog{
+         margin: 0;
+         padding: 0;
+         border: 0;
+         font: inherit;
+         vertical-align: baseline;
+         
+         font-size: x-small;
+         margin-left: 50px;
+         margin-bottom: 0px;
+         margin-top: 0px;
+     }
+     
+     
+     
+     nav ul li{
+         display: inline;
+         float:right;
+         margin-top: 30px;
+     
+     }
+     
+     
+     
+     #print {
+         float: right;
+         display: inline-block;
+         margin-right: 130px;
+     }
+     
+     #hero {
+         margin: 0px 0px 0px 259px;
+         padding: 20px 0px 0px;
+         border: 0px;
+         font: inherit;
+         vertical-align: baseline;
+         display: inline-block;
+         text-align: center;
+         width: 64%;
+         margin-left: 259px;
+         margin-top: 5px;
+     
+     padding-top: 20px;
+     }
+     main h1 {
+         margin: 0;
+         padding: 0;
+         border: 0;
+         font: inherit;
+         vertical-align: baseline;
+         font-size: xx-large;
+         font-weight: bold;
+         margin-left: 250px;
+     }
+     main #date{
+         margin: 0;
+         padding: 0;
+         border: 0;
+         font: inherit;
+         vertical-align: baseline;
+         font-size: x-small;
+         margin-left: 258px;
+         border-spacing: 0px;
+     }
+     
+     #hr{
+         background-image: url('https://github.com/LTUC/amman-201d19/blob/master/class-10/lab-a/lab-assets/hr-img.png?raw=true');
+         background-repeat: repeat-x;
+     }
+     
+     #paragraph{
+         text-align: center;
+         width: 100%;
+         margin-top: 30px;
+           line-height: 1.5;
+           color: grey;
+           font-size: 20px;
+       }
+       P{width 20%}
+         
+       
+     
+       #list{
+         margin: 0;
+         padding: 0;
+         border: 0;
+         font-size: 100%;
+         font: inherit;
+         vertical-align: baseline;
+         display: block;
+         background-image: url('https://github.com/LTUC/amman-201d19/blob/master/class-10/lab-a/lab-assets/list-bg.png?raw=true');
+         width: 64%;
+         height: 300px;
+         line-height: 40px;
+         margin-left: 265px;
+       }
+     
+     #list ul{
+       display: inline-block;
+       width:50%;
+       text-align: center;
+       font-family: 'Gloria Hallelujah', cursive;
+     }
+     
+     footer{
+         margin: 0;
+         padding: 0;
+         border: 0;
+         font-size: 100%;
+         font: inherit;
+         vertical-align: baseline;
+         display: block;
+         text-align: center;
+         margin-top: 76px;
+        
+            
+     }
+     
+     div.van {
+         margin: 0;
+         padding: 0;
+         border: 0;
+         font-size: 100%;
+         font: inherit;
+         vertical-align: baseline;
+         display: flex;
+     }
+         body > main > div.van > h2{
+     display: inline-block;
+     font-size: x-large;
+         }
+     
+         body > main > div.van > p{
+             margin: 0;
+             padding: 0;
+             border: 0;
+             font-size: 100%;
+             font: inherit;
+             vertical-align: baseline;
+             margin-top: 20px;
+             margin-right: 0px;
+             border-right-width: 0px;
+         }
+     
+         body > main > div.van > img{
+             margin: 0;
+             padding: 0;
+             border: 0;
+             font-size: 100%;
+             font: inherit;
+             vertical-align: baseline;
+             margin-left: 267px;
+         }
+         #last{
+            
+            margin-left: 200px;
+         }
+     
+         /* body > main > div.van > p{
+             display: inline-block;
+         } */
+     /* body > main > div.van > h2{
+         display: inline-block;
+     }
+     
+     h2.p{
+         font-size: x-large;
+     } */
+     
+     /* sumaya */
+     #headline li {
+         float:right;
+         display: inline-block;
+         padding-left: 1.5px;
+     }
+     
+     #branch li{
+         display: inline-block;
+         float: right;
+         padding-left: 1.5px;
+     }
+     #branch {
+         border-left: 6px;
+         margin-right: 130px;
+         margin-top: 20px;
+     }
+     
+     #logo{
+         display: inline-block;
+         float:left;
+         margin-right: 10px;;
+         margin-left: 250px;
+         margin-top: -5px;
+     }
+     
+     h1{
+         display: inline-block;
+         font-family:'Yellowtail', cursive;
+         font-weight: bolder;
+         font-size:30px;
+         margin-top: -10px;
+         margin-left: -135px;
+         
+     }
+     #branch > li:nth-child(2) > img {
+     margin-left: 10px;
+     }
+     
+     #ribbon {
+         background-image: url("images/hr-img.png");
+         /* background-repeat: repeat-x; */
+         background-size: cover;
+         height: 3px;
+         width: 3px;
+     }
+     
+     #par1{
+         display: inline-block;
+         float:left;
+         margin-top: 30px;
+         font-size: 10px;
+     }
+     #z{
+         margin-top: 20px;
+         margin-left: 195px;
+     }
